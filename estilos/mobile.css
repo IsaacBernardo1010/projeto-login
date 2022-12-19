@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+main {
+    width: 200px;
+    height: 500px;
+    background-color: lightgrey;
+    margin: auto;
+}
+
+div#formulario > form > input {
+    display: block;
+}
