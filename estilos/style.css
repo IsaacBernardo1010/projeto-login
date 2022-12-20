@@ -65,3 +65,13 @@ div#formulario > h1 {
 div#formulario > p {
     font-size: 0.8em;
 }
+
+div.campo {
+    background-color: #5f2c82;
+    margin-bottom: 5px;
+}
+
+div.campo > input {
+    margin: 2px;
+    text-align: center;
+}
